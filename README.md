@@ -1,6 +1,9 @@
 # Flower Image Classifier
 Building a Flower Image classifier using **Deep Learning**.
-
+\
+\
+\
+![](./flower_classifier.png "Flower Image Classifier")
 
 
 # Overview
